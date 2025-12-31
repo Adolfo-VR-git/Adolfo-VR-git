@@ -35,14 +35,6 @@ Me considero una persona organizada, con una fuerte orientación al trabajo en e
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia" alt="Estadísticas de GitHub" />
-</p>
-
----
-
 ### 🤝 Hablemos
 Aunque por ahora prefiero mantener mi perfil enfocado aquí en GitHub, siempre estoy abierto a colaborar en proyectos interesantes de código abierto o desafíos técnicos. 
 
